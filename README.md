@@ -20,7 +20,8 @@
 1. **استخراج الدرجات بذكاء:** ارفع صور كشوف الدرجات (Transcripts) لـ **Gemini** واستخدم البرومبت التالي لتوليد البيانات بالفورمات المناسب.
 2. **تشغيل الحاسبة:** افتح رابط الحاسبة أونلاين، اضغط **Run**.
 3. **إدخال البيانات:** انسخ الناتج من Gemini واعمل له Paste في التيرمينال فوراً.
-<img width="951" height="454" alt="image" src="https://github.com/user-attachments/assets/7271f054-0c3f-4203-9b1e-36e1865273d3" />
+<img width="951" height="454" alt="image" src="https://github.com/user-attachments/assets/3d2adf37-e762-4c8d-970e-88f444b593f3" />
+
 
 ---
 
